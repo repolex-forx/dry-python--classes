@@ -8,7 +8,8 @@
     {
       "@id": "https://repolex.ai/r/dry-python/classes/commit/35fa4a807252f0dd7a2c09f3ebb939bcd97ebac7",
       "git:hexsha": "35fa4a807252f0dd7a2c09f3ebb939bcd97ebac7",
-      "repolex:parseStatus": "ast_complete"
+      "repolex:parseStatus": "parsed",
+      "repolex:parsedAt": "2026-10-19T11:45:38.116902+00:00"
     },
     {
       "@id": "https://repolex.ai/r/dry-python/classes/commit/588b19de91d43d6b08b3adc2c3a4618632414310",
